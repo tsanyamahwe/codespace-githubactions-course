@@ -1,2 +1,1 @@
-# codespace-githubactions-course
-For all the notes and examples in the GitHub Actions course
+Repository containing all examples and notes for the GitHib Actions course.
